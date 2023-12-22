@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; &emsp; [![logo](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![logo](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)
 # Exploring a Movie Database
 ### Team:
 ##### &emsp;   Francisco Caupers
