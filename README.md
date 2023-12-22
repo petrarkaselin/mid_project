@@ -1,4 +1,4 @@
-[![logo](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)
+&emsp; &emsp; &emsp; &emsp; [![logo](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%201%20start.jpg)
 # Exploring a Movie Database
 ### Team:
 ##### &emsp;   Francisco Caupers
@@ -24,7 +24,13 @@ As the main database for our analysis we chose the IMDB database. The whole data
 1. H0: There is no relationship between film that was nominated for Oscar and its genre.
 2. H0: There is no relationship between genres and ratings of the film.
 
-For the purpose of our analysis we filtered our main table. We took only those films that have information about revenue (revenue > 0) and show interest from the audience (vote count > 100). As additional data sets we used information about age ratings, Oscar nominated film and Oscar nominated companies in 2022. We join all related information from these tables to the main table and merged them all in one. At this point we had 642 lines.
+For the purpose of our analysis we filtered our main table. We took only those films that have information about revenue (revenue > 0) and show interest from the audience (vote count > 100). 
+
+[![filtering](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%205%20filtering.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%205%20filtering.jpg)
+
+As additional data sets we used information about age ratings, Oscar nominated film and Oscar nominated companies in 2022. We join all related information from these tables to the main table and merged them all in one. At this point we had 642 lines.
+
+[![merging](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%206%20merged%20data.jpg)](https://github.com/petrarkaselin/mid_project/blob/main/slides/Slide%2016_9%20-%206%20merged%20data.jpg)
 
 ### Data cleaning measures:
 - Changed column 'release_data' to 'date' datatype
